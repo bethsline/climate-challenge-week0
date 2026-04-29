@@ -1,2 +1,9 @@
-data/
-*.csv
+data/ 
+*.csv 
+.ipynb_checkpoints/ 
+venv/ 
+__pycache__/ 
+*.pyc 
+.env 
+.venv/ 
+notebooks/*.csv 
