@@ -1,2 +1,6 @@
-data/
+echo "data/
 *.csv
+.ipynb_checkpoints/
+venv/
+__pycache__/
+*.pyc" > .gitignore
